@@ -1,15 +1,15 @@
 {
-  "name": "@gaoyunch/rn-local-qrdecode",
+  "name": "@pzpupu/rn-local-qrdecode",
   "version": "1.0.1",
   "description": "The plugin to recognize the barcode from local image for React Native.",
-  "author": "gaoyunch <a1484075966@outlook.com>",
+  "author": "pz <pzpupu@gmail.com>",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaoyunch/rn-local-qrdecode"
+    "url": "https://github.com/pzpupu/rn-local-qrdecode"
   },
   "bugs": {
-    "url": "https://github.com/gaoyunch/rn-local-qrdecode/issues"
+    "url": "https://github.com/pzpupu/rn-local-qrdecode/issues"
   },
   "main": "index.ts",
   "scripts": {
